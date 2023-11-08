@@ -5,6 +5,9 @@ a basic code using python for enabling multi-step-verfication on atm machine usi
 this is a python program allows you to create or login into an account and enable you to access some functions like depositing the cash, 
 withdrawing the cash, viewing the balance etc., 
 
+don't forget to add the known and Unknown files on your environment 
+to do the face verification 
+
 it generates otp using twilio api servies, 
 replace the SSID and authentication token in the code by your login creadentials obtain from your
 twilio account. 
